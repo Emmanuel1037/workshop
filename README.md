@@ -1,2 +1,2 @@
 # workshop
-ACM workshop test code.
+ACM workshop.
